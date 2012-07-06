@@ -9,7 +9,7 @@ namespace git_test1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("First test. ZKAM. Hej");
+            Console.WriteLine("First test. ZKAM. Hejsan");
         }
     }
 }
